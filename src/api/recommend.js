@@ -1,5 +1,3 @@
-import qs from 'qs'
-import axios from 'axios'
 import jsonp from 'common/js/jsonp'
 import {commonParams,options} from './config.js'
 
